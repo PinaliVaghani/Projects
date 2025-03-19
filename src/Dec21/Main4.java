@@ -1,8 +1,8 @@
 package Dec21;
 
-import jdk.nashorn.internal.runtime.FindProperty;
 
-public class Main2 {
+
+public class Main4 {
     public static void main(String[] args) {
         int[] numbers = {10, 20, 30, 40, 50};
         Maximum max = new Maximum();
